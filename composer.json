@@ -1,0 +1,16 @@
+{
+    "name": "cjdevstudios/symfony-framework",
+    "description": "A collection of Symfony bundles created by CJ Development Studios to quickly build apps",
+    "type": "metapackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Curtis Conard",
+            "email": "cconard@cjdevstudios.com"
+        }
+    ],
+    "require": {
+        "cjdevstudios/entitymanagement-bundle": "dev-main"
+        "cjdevstudios/dev-bundle": "dev-main"
+    }
+}
