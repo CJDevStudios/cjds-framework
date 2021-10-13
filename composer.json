@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "cjdevstudios/entitymanagement-bundle": "dev-main"
+        "cjdevstudios/entitymanagement-bundle": "dev-main",
         "cjdevstudios/dev-bundle": "dev-main"
     }
 }
